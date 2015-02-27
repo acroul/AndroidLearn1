@@ -21,11 +21,11 @@ public class QuizActivity extends ActionBarActivity {
     private int mCurrentIndex = 0;
 
     private TrueFalse[] mQuestionBank = new TrueFalse[] {
-        new TrueFalse(R.string.question_aids, true),
-        new TrueFalse(R.string.question_drewsdick, true),
         new TrueFalse(R.string.question_hotdogs, false),
+        new TrueFalse(R.string.question_beer, true),
         new TrueFalse(R.string.question_nicequestion, false),
-        new TrueFalse(R.string.question_peepeepoopoo, true)
+        new TrueFalse(R.string.question_cheezits, false),
+        new TrueFalse(R.string.question_hello, false)
     };
 
     @Override

@@ -7,9 +7,9 @@
     <string name="correct_toast">Correct!</string>
     <string name="incorrect_toast">Incorrect!</string>
     <string name="action_settings">Settings</string>
-    <string name="question_drewsdick">Drew\'s dick is a hundred inches long.</string>
-    <string name="question_aids">1 trillion people die of AIDS each year.</string>
+    <string name="question_cheezits">Cheez-Its don\'t taste good.</string>
+    <string name="question_beer">Beer is yummy.</string>
     <string name="question_hotdogs">The hot dog was invented by Rutherford Johannes Hotdog in 1935</string>
     <string name="question_nicequestion">You are a beautiful person who possess admirable values.</string>
-    <string name="question_peepeepoopoo">Pee pee poo poo.</string>
+    <string name="question_hello">Hello!</string>
 </resources>
